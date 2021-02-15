@@ -13,7 +13,7 @@ const TemplateWrapper = ({ children }) => {
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
-        <meta name="description" content={description} />
+        <meta name="description" content="채용 안내용 사이트입니다." />
 
         <link
           rel="apple-touch-icon"
