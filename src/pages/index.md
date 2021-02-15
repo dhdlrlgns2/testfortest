@@ -2,8 +2,8 @@
 templateKey: index-page
 title: 푸시 테스트 하는중입니다.
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: 푸시 테스트 하는중입니다.
+subheading: 여기가 바뀌면 좋겠당
 mainpitch:
   title: Why Kaldi
   description: >
